@@ -1,0 +1,19 @@
+FROM mcr.microsoft.com/dotnet/nightly/sdk:7.0 as build
+workdir webEmpleado
+
+expose 80
+expose 5000
+
+#copy projecft files
+copy ./*.csproj ./
+run dotnet restore
+
+#cppy everything else
+copy . . 
+run dotnet publish -c Release -o out
+
+#build image
+FROM mcr.microsoft.com/dotnet/nightly/sdk:7.0
+workdir /webEmpleado
+copy --from=build /webEmpleado/out .
+entrypoint ["dotnet", "dockerDotnetApp.dll"]

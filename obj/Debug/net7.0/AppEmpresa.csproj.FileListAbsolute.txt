@@ -1,0 +1,62 @@
+C:\Users\user\Desktop\AppEmpresa\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user\Desktop\AppEmpresa\bin\Debug\net7.0\appsettings.json
+C:\Users\user\Desktop\AppEmpresa\bin\Debug\net7.0\AppEmpresa.staticwebassets.runtime.json
+C:\Users\user\Desktop\AppEmpresa\bin\Debug\net7.0\AppEmpresa.exe
+C:\Users\user\Desktop\AppEmpresa\bin\Debug\net7.0\AppEmpresa.deps.json
+C:\Users\user\Desktop\AppEmpresa\bin\Debug\net7.0\AppEmpresa.runtimeconfig.json
+C:\Users\user\Desktop\AppEmpresa\bin\Debug\net7.0\AppEmpresa.dll
+C:\Users\user\Desktop\AppEmpresa\bin\Debug\net7.0\AppEmpresa.pdb
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\AppEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\AppEmpresa.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\AppEmpresa.AssemblyInfo.cs
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\AppEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\AppEmpresa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\AppEmpresa.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\AppEmpresa.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\staticwebassets\msbuild.AppEmpresa.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\staticwebassets\msbuild.build.AppEmpresa.props
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AppEmpresa.props
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AppEmpresa.props
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\scopedcss\bundle\AppEmpresa.styles.css
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\scopedcss\projectbundle\AppEmpresa.bundle.scp.css
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\AppEmpresa.dll
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\refint\AppEmpresa.dll
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\AppEmpresa.pdb
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\AppEmpresa.genruntimeconfig.cache
+C:\Users\user\Desktop\AppEmpresa\obj\Debug\net7.0\ref\AppEmpresa.dll
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\bin\Debug\net7.0\appsettings.Development.json
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\bin\Debug\net7.0\appsettings.json
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\bin\Debug\net7.0\AppEmpresa.staticwebassets.runtime.json
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\bin\Debug\net7.0\AppEmpresa.exe
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\bin\Debug\net7.0\AppEmpresa.deps.json
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\bin\Debug\net7.0\AppEmpresa.runtimeconfig.json
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\bin\Debug\net7.0\AppEmpresa.dll
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\bin\Debug\net7.0\AppEmpresa.pdb
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\obj\Debug\net7.0\AppEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\obj\Debug\net7.0\AppEmpresa.AssemblyInfoInputs.cache
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\obj\Debug\net7.0\AppEmpresa.AssemblyInfo.cs
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\obj\Debug\net7.0\AppEmpresa.csproj.CoreCompileInputs.cache
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\obj\Debug\net7.0\AppEmpresa.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\obj\Debug\net7.0\AppEmpresa.RazorAssemblyInfo.cache
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\obj\Debug\net7.0\AppEmpresa.RazorAssemblyInfo.cs
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\obj\Debug\net7.0\staticwebassets\msbuild.AppEmpresa.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\obj\Debug\net7.0\staticwebassets\msbuild.build.AppEmpresa.props
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AppEmpresa.props
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AppEmpresa.props
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\obj\Debug\net7.0\staticwebassets.pack.json
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\obj\Debug\net7.0\staticwebassets.build.json
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\obj\Debug\net7.0\staticwebassets.development.json
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\obj\Debug\net7.0\scopedcss\bundle\AppEmpresa.styles.css
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\obj\Debug\net7.0\scopedcss\projectbundle\AppEmpresa.bundle.scp.css
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\obj\Debug\net7.0\AppEmpresa.dll
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\obj\Debug\net7.0\refint\AppEmpresa.dll
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\obj\Debug\net7.0\AppEmpresa.pdb
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\obj\Debug\net7.0\AppEmpresa.genruntimeconfig.cache
+c:\Users\hpvic\OneDrive\Documentos\UMG 2023 2\Desarrollo Web\Blazor_crud\obj\Debug\net7.0\ref\AppEmpresa.dll
